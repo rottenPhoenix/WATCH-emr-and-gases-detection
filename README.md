@@ -2,7 +2,7 @@
 
 ## Introduction
 
->WATCH-emr-and-gases-detection project includes several function added on smart_watch. First, it can detect electric wires by hall_sensor. And also can chect oxygen consentration around smart_watch by o2_sensor. So the following project offers code work of function above.
+ WATCH-emr-and-gases-detection project includes several function added on smart_watch. First, it can detect electric wires by hall_sensor. And also can chect oxygen consentration around smart_watch by o2_sensor. So the following project offers code work of function above.
 
 ## Developement Environment
 
